@@ -9,5 +9,4 @@ Coral
 Silver
 Fuchsia
 Gray
-Brown
-Red
+It is great learning how to "Fork"
